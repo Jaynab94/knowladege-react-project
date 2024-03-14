@@ -1,0 +1,53 @@
+[
+    {
+      "id": 1,
+      "cover-picture": "https://i.ibb.co/YbZdxKd/html-system-website-concept.jpg",
+      "author": "John Doe",
+      "author_img": "https://i.ibb.co/RHS4cZf/medium-shot-woman-working-laptop.jpghttps://i.ibb.co/27NkqL8/attractive-happy-guy-with-bristle-have-wide-smile.jpg",
+      "title": "Exploring the Wilderness: A Journey Through the Unknown",
+      "posted_date": "2024-03-12",
+      "reading_time": 10,
+      "hashtag": ["#Adventure", "#Exploration"]
+    },
+    {
+      "id": 2,
+      "cover-picture": "https://i.ibb.co/Vw7hSjB/programming-background-with-person-working-with-codes-computer.jpg",
+      "author": "Jane Smith",
+      "author_img": "https://i.ibb.co/nj9DGNB/confused-young-man-green-shirt.jpg",
+      "title": "The Art of Cooking: Mastering Culinary Skills",
+      "posted_date": "2024-03-13",
+      "reading_time": 15,
+      "hashtag": ["#Cooking", "#CulinaryArt"]
+    },
+    {
+      "id": 3,
+      "cover-picture": "https://i.ibb.co/HDdmsrL/html-css-collage-concept-with-person.jpg",
+      "author": "Alex Johnson",
+      "author_img": "https://i.ibb.co/LzLhLGY/aiony-haust-3-TLl-97-HNJo-unsplash.jpg",
+      "title": "Unlocking Creativity: Finding Inspiration in Everyday Life",
+      "posted_date": "2024-03-14",
+      "reading_time": 12,
+      "hashtag": ["#Creativity", "#Inspiration"]
+    },
+    {
+      "id": 4,
+      "cover-picture": "https://i.ibb.co/RHS4cZf/medium-shot-woman-working-laptop.jpg",
+      "author": "Emily Brown",
+      "author_img": "https://i.ibb.co/fxx1dMB/ayo-ogunseinde-Rr-D8ypt8cj-Y-unsplash.jpg",
+      "title": "The Power of Meditation: Finding Peace Amidst Chaos",
+      "posted_date": "2024-03-15",
+      "reading_time": 8,
+      "hashtag": ["#Meditation", "#Mindfulness"]
+    },
+    {
+      "id": 5,
+      "cover-picture": "https://i.ibb.co/YbZdxKd/html-system-website-concept.jpg",
+      "author": "Michael Wilson",
+      "author_img": "https://i.ibb.co/fxx1dMB/ayo-ogunseinde-Rr-D8ypt8cj-Y-unsplash.jpg",
+      "title": "Journey to Wellness: Nurturing Your Body and Mind",
+      "posted_date": "2024-03-16",
+      "reading_time": 20,
+      "hashtag": ["#Wellness", "#SelfCare"]
+    }
+  ]
+  
